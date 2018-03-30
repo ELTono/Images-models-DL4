@@ -1,0 +1,4 @@
+model_checkpoint_path: "my_model5.chkp"
+all_model_checkpoint_paths: "my_model0.chkp"
+all_model_checkpoint_paths: "my_model1.chkp"
+all_model_checkpoint_paths: "my_model5.chkp"
